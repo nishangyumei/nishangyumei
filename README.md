@@ -20,8 +20,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nishangyumei/nishangyumei/output/github-contribution-grid-snake.svg">
 </picture>
 
-- 👨‍🎓Undergraduate of HDU
-- 👥Member of ~~CTRL~~ CV Group of [@HDU-PHOENIX](https://github.com/HDU-PHOENIX)
-- RMer
-
 [![nishangyumei's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishangyumei&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
